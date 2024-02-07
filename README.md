@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 💬 Ask me about **Java, C++, HTML, JavaScript, CSS, and MongoDB.**
+- 💬 Ask me about **Java, C++, HTML, JavaScript, Python, C#, PHP, CSS, and MongoDB.**
 
 - 📫 How to reach me **millardryandevon@gmail.com**
 
