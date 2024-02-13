@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-millard&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- ♥🔊💡🔥 I’m currently researching how to make a **human detector that can penetrate walls**, such as a heartbeat detector or IR sensor.
+- ♥🔊💡🔥 I’m currently researching **wall penetration with microcontrollers**, such as a heartbeat detector or IR sensor.
 
 - 💬 Ask me about **Java, C++, HTML, JavaScript, Python, C#, PHP, CSS, and MongoDB.**
 
