@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-millard&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🔥I’m currently researching **wall penetration using microcontrollers**, such as a heartbeat detector or IR sensor.
+- 🔥 Currently interested in wall-piercinng technology (My Aim: to make a heartbeat detector)
 
-- 💬 Ask me about **Java, C++, HTML, JavaScript, Python, C#, PHP, CSS, and MongoDB.**
+- 💬 Ask me about **Java, C++, HTML, JavaScript, Python, .NET, PHP, CSS, and MongoDB.**
 
 - 📫 How to reach me **millardryandevon@gmail.com**
 ---
