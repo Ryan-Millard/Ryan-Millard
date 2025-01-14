@@ -133,5 +133,31 @@ A web-based claim management system for Independent Contractor lecturers using A
 ## GitHub Activity 📊
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-millard&theme=dark" alt="GitHub Streak Stats"/>
+  <h2>📊 GitHub Stats</h2>
+
+<h3>🏆 GitHub Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=ryan-millard&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
+
+<hr />
+
+<h3>📈 Activity Graph</h3>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ryan-millard&theme=react-dark&bg_color=151515&hide_border=true" alt="GitHub Activity Graph" />
+
+<hr />
+
+<h3>📊 GitHub Summary Cards</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryan-millard&theme=dark" alt="GitHub Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryan-millard&theme=dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryan-millard&theme=dark" alt="GitHub Stats" />
+
+<hr />
+
+<h3>📌 Pinned Repositories</h3>
+<a href="https://github.com/ryan-millard/react-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-millard&repo=react-website&theme=dark" alt="Top Repo - React Website" />
+</a>
+<a href="https://github.com/ryan-millard/other-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryan-millard&repo=other-repo&theme=dark" alt="Top Repo - Other Repo" />
+</a>
+
 </p>
