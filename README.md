@@ -19,15 +19,10 @@ I'm a versatile full-stack developer with expertise in multiple programming para
 
 ## Professional Experience 💼
 
-- **Full Stack Developer** at *42nd Precinct Security* (2023 - Present)
+- **Full Stack Developer** at *42nd Precinct Security* (2024 - Present)
   - Developing and maintaining company website using React.js
   - Implementing security system integrations
   - Managing client databases and reporting systems
-
-- **Software Development Intern** at *[Previous Company]* (2022 - 2023)
-  - Assisted in developing enterprise applications
-  - Worked with Agile development methodologies
-  - Contributed to database optimization projects
 
 ## Technical Stack 🛠️
 
@@ -92,34 +87,6 @@ A web-based claim management system for Independent Contractor lecturers.
 **Tech Stack:** ASP.NET Core, C#, SQL Server, Entity Framework Core, Bootstrap
 
 [![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=flat-square)](https://github.com/Ryan-Millard/Contract-Monthly-Claim-System---PROG6212-POE)
-
-## Certifications & Achievements 🏆
-
-- Advanced Diploma in Applications Development (2023)
-- AWS Certified Cloud Practitioner
-- Microsoft Certified: Azure Fundamentals
-- Completed HackerRank Java & JavaScript certifications
-
-## Open Source Contributions 🌟
-
-- **[Project Name]**: Contributed performance improvements and bug fixes
-- **[Library Name]**: Added new features and documentation
-- Active contributor to various open-source projects in the .NET and React ecosystems
-
-## Blog Posts & Articles ✍️
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding React Hooks in Depth](link-to-article)
-- [Building Scalable Applications with .NET Core](link-to-article)
-- [Best Practices for Database Design](link-to-article)
-<!-- BLOG-POST-LIST:END -->
-
-## Connect With Me 🤝
-
-[![Email](https://img.shields.io/badge/Email-millardryandevon@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:millardryandevon@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-l_._ryan_._l-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/l_._ryan_._l)
-[![Facebook](https://img.shields.io/badge/Facebook-ryan_millard-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ryan.millard)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryan_Millard-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 ## GitHub Statistics 📊
 
