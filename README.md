@@ -96,6 +96,8 @@ A web-based claim management system for Independent Contractor lecturers.
 </p>
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-Millard&hide_border=true" />
 </p>
+  <img height="200" src="https://github-profile-trophy.vercel.app/?username=ryan-millard&theme=onedark&column=3&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
