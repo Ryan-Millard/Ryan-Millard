@@ -1,122 +1,106 @@
-<h1 align="center">Ryan Millard | Full-Stack Developer 👨‍💻</h1>
+<h1 align="center">Ryan Millard</h1>
 
 <p align="center">
-  <em>Software Engineer | Multi-Platform Developer | Technology Enthusiast</em>
-  <br>
-  <strong>Crafting robust solutions from South Africa 🇿🇦</strong>
+  <a href="https://www.linkedin.com/in/ryan-millard"><img src="https://img.shields.io/badge/Full--Stack_Developer-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Developer"/></a>
 </p>
 
-## About Me 👋
+<p align="center">
+  <em>Building robust solutions from South Africa 🇿🇦</em>
+</p>
 
-I'm a versatile full-stack developer with expertise in multiple programming paradigms and frameworks. My experience spans desktop, web, and database development, with a particular interest in low-level technologies, robotics, and detection systems.
+<p align="center">
+  <a href="mailto:millardryandevon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Ryan-millard"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-- 🔭 **Currently working on:** React.js Website for 42nd Precinct Security
-- 🌱 **Exploring:** Signal Processing & Hardware Integration
-- 💡 **Special Interest:** Cross-Platform Development & IoT
-- 🎓 **Education:** Advanced Diploma in Applications Development
-- 💼 **Open to:** Collaboration on open-source projects
-- 📫 **Reach me at:** millardryandevon@gmail.com
+## 👨‍💻 About Me
 
-## Professional Experience 💼
+> Software Engineer passionate about crafting efficient solutions across multiple platforms
 
-### Full Stack Developer at *42nd Precinct Security* (2024 - Present)
-- Developing and maintaining company website using React.js
-- Implementing security system integrations
-- Managing client databases and reporting systems
+Currently developing a React.js website for 42nd Precinct Security while exploring signal processing and hardware integration. With an Advanced Diploma in Applications Development, I specialize in cross-platform development and IoT solutions.
 
-## Technical Stack 🛠️
+### 🎯 Current Focus
+- Leading frontend development for security system integrations
+- Implementing real-time monitoring solutions
+- Exploring machine learning applications in security systems
 
-### Programming Languages
+## 💼 Professional Journey
+
+### Full Stack Developer | 42nd Precinct Security
+*2024 - Present*
+- Architecting responsive web applications using React.js
+- Implementing secure API integrations
+- Managing distributed database systems
+- Developing automated reporting solutions
+
+## 🛠️ Technology Arsenal
+
+### Core Languages
+```javascript
+const languages = {
+  expert: ['JavaScript', 'C#', 'Java'],
+  proficient: ['Python', 'PHP', 'C++'],
+  databases: ['Oracle', 'MySQL', 'MongoDB']
+}
+```
+
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### Frontend Development
+### Backend & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
-### Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-### Development Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-## Featured Projects 🚀
+## 🚀 Featured Projects
 
 ### Pastimes E-Commerce Platform
-An MVC-based second-hand clothing marketplace built with PHP and MySQL.
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 
-**Key Features:**
-- 🔐 Multi-role authentication system
-- 🛍️ Advanced product management
-- 💳 Secure transaction processing
-- 📱 Responsive design
-- 💬 Integrated messaging system
+A sophisticated MVC-based marketplace revolutionizing second-hand clothing commerce.
 
-**Tech Stack:** PHP, MySQL, Apache, HTML5, CSS3, JavaScript  
-[<img src="https://img.shields.io/badge/View_Repository-2ea44f?style=flat-square" alt="View Repository" />](https://github.com/Ryan-millard/Pastimes-WEDE6021-POE)
+**Core Features:**
+- 🔐 Advanced authentication with role-based access
+- 🛍️ Intuitive product management system
+- 💳 Secure payment processing
+- 📱 Mobile-first responsive design
+- 💬 Real-time messaging system
+
+[View Project](https://github.com/Ryan-millard/Pastimes-WEDE6021-POE) • [Live Demo](#)
 
 ### Contract Monthly Claim System (CMCS)
-A web-based claim management system for Independent Contractor lecturers.
+![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square)
 
-**Key Features:**
-- 👥 Role-based access control
-- 📝 Advanced form validation
-- 🔒 ASP.NET Core Identity integration
-- 📊 N-tier architecture
-- 📄 PDF report generation
+Enterprise-grade claim management solution for educational institutions.
 
-**Tech Stack:** ASP.NET Core, C#, SQL Server, Entity Framework Core, Bootstrap  
-[<img src="https://img.shields.io/badge/View_Repository-2ea44f?style=flat-square" alt="View Repository" />](https://github.com/Ryan-Millard/Contract-Monthly-Claim-System---PROG6212-POE)
+**Highlights:**
+- 👥 Sophisticated access control
+- 📝 Smart form validation
+- 🔒 Enhanced security protocols
+- 📊 Scalable architecture
+- 📄 Automated reporting
 
-## GitHub Statistics 📊
+[View Project](https://github.com/Ryan-Millard/Contract-Monthly-Claim-System---PROG6212-POE) • [Documentation](#)
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-millard&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-millard&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-millard&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-millard&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-Millard&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryan-millard&theme=onedark&column=3&margin-w=15&margin-h=15" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Millard&theme=dark&hide_border=true" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Millard&theme=github-dark&hide_border=true" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryan-millard&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
