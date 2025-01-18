@@ -104,3 +104,9 @@ A web-based claim management system for Independent Contractor lecturers.
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </p>
+
+---
+
+### GitHub Streak
+
+![GitHub Streak](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DRyan-Millard%26theme%3Ddark)
