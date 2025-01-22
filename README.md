@@ -103,7 +103,9 @@ Streamlined claim management system built with .NET Razor Pages and MySQL.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-millard&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Millard&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Millard&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
