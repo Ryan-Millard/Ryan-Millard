@@ -98,13 +98,18 @@ Streamlined claim management system built with .NET Razor Pages and MySQL.
 
 ## 📊 Development Metrics
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=142347829" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=142347829&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Ryan-Millard" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=142347829&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-millard&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-millard&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ryan-millard&theme=github-dark" alt="Contribution Graph"/>
 </div>
 
 ---
