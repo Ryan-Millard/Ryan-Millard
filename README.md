@@ -39,7 +39,7 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 ### Core Technologies
 ```javascript
 const expertise = {
-  languages: ['JavaScript', 'C#', 'Java', 'Python', 'PHP'],
+  languages: ['JavaScript', 'C#', 'PHP', 'C++', 'Java'],
   frontend: ['React.js', 'TypeScript', 'HTML5/CSS3'],
   backend: ['ASP.NET Core', 'Node.js', 'Laravel'],
   databases: ['Oracle', 'MySQL', 'MongoDB'],
