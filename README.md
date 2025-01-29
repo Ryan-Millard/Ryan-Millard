@@ -108,8 +108,9 @@ Streamlined claim management system built with .NET Razor Pages and MySQL.
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-millard&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-millard&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryan-millard&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-millard&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 ---
