@@ -38,6 +38,15 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 - Implementing secure API integrations
 - Managing database systems and reporting solutions
 
+### Embedded Systems Intern | Magtouch Electronics
+*2024 - Present*  
+- Developing and prototyping embedded systems using Arduino in C/C++  
+- Collaborating with senior engineers to design and test electronic circuits  
+- Troubleshooting and debugging hardware and software issues in IoT devices  
+- Assisting in the development of firmware for microcontroller-based projects  
+- Gaining hands-on experience with sensors, actuators, and communication protocols (e.g., I2C, SPI, UART)  
+- Documenting project progress and creating technical reports for team review
+
 ## 🛠️ Technical Expertise
 
 ### Core Technologies
