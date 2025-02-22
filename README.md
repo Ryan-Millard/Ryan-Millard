@@ -1,4 +1,8 @@
 <h1 align="center">Ryan Millard</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryan-millard&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-millard"><img src="https://img.shields.io/badge/Full--Stack_Developer-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Developer"/></a>
@@ -39,10 +43,10 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 ### Core Technologies
 ```javascript
 const expertise = {
-  languages: ['JavaScript', 'C#', 'PHP', 'C++', 'Java'],
-  frontend: ['React.js', 'TypeScript', 'HTML5/CSS3'],
+  languages: ['JavaScript', 'C#', 'PHP', 'C++', 'Java', 'Kotlin'],
+  frontend: ['React.js', 'TypeScript', 'HTML5/CSS3', 'Tailwind', 'Bootstrap'],
   backend: ['ASP.NET Core', 'Node.js', 'Laravel'],
-  databases: ['Oracle', 'MySQL', 'MongoDB'],
+  databases: ['Oracle', 'MySQL', 'MongoDB', 'SQL Server'],
   tools: ['Git', 'Docker', 'REST APIs']
 }
 ```
@@ -52,6 +56,7 @@ const expertise = {
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ### Backend Stack
@@ -98,12 +103,14 @@ Streamlined claim management system built with .NET Razor Pages and MySQL.
 
 ## 📊 Development Metrics
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=142347829" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=142347829&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Ryan-Millard" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=142347829&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=142347829" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=142347829&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @Ryan-Millard" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=142347829&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
+</div>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
@@ -112,9 +119,3 @@ Streamlined claim management system built with .NET Razor Pages and MySQL.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-millard&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryan-millard&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
