@@ -97,7 +97,7 @@ Custom-built e-commerce platform for second-hand clothing commerce, featuring a 
 [View Project](https://github.com/Ryan-millard/Pastimes-WEDE6021-POE) • [Documentation](https://github.com/Ryan-Millard/Pastimes-WEDE6021-POE/blob/main/README.md)
 
 ### Contract Monthly Claim System (CMCS)
-![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 ![Tech](https://img.shields.io/badge/Stack-.NET_Razor-purple?style=flat-square)
 
 Streamlined claim management system built with .NET Razor Pages and MySQL.
