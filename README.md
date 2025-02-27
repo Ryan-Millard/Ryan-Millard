@@ -131,7 +131,7 @@ Streamlined claim management system built with .NET Razor Pages and MySQL.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-millard&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
-## 
+## Contact Me
 
 <p align="center">
   <a href="mailto:millardryandevon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
