@@ -17,7 +17,7 @@
 
 > Full Stack Developer with a passion for security systems and efficient solutions
 
-Currently sole developer at 42nd Precinct Security while completing my final year in Bachelor of Computing and Information Systems. Combining academic knowledge with hands-on experience in building real-world security applications.
+Currently sole developer at 42nd Precinct Security while completing my final year in Bachelor of Computer and Information Science in Application Development and Networks. Combining academic knowledge with hands-on experience in building real-world security applications.
 
 ### 🎯 Technical Focus
 - Developing comprehensive security monitoring platforms
