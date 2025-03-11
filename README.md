@@ -81,6 +81,21 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 
 ## 🚀 Featured Projects
 
+### Palooka – ESP32 Battlebot
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Tech](https://img.shields.io/badge/Stack-ESP32_C%2B%2B_WebServer-blue?style=flat-square)
+
+Palooka is an ongoing project to develop a battle robot based on the ESP32 platform, featuring a web-based control panel for remote operation. Designed for participation in scouting events in Johannesburg, this project combines hardware and software engineering to create an interactive and engaging robotics experience.
+
+**Technical Highlights:**
+- 🤖 Utilizes ESP32 microcontroller for robust performance
+- 🌐 Web server control panel for intuitive remote operation
+- 🛠️ Ongoing development with a focus on reliability and user engagement
+
+[View Project](https://github.com/Ryan-Millard/Palooka) • [Documentation](https://github.com/Ryan-Millard/Palooka/blob/main/README.md)
+
+
 ### Pastimes E-Commerce Platform
 ![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 ![Tech](https://img.shields.io/badge/Stack-PHP_MySQL-green?style=flat-square)
