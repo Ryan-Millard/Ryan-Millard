@@ -86,7 +86,7 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 ![Tech](https://img.shields.io/badge/Stack-ESP32_C%2B%2B_WebServer-blue?style=flat-square)
 
-Palooka is an ongoing project to develop a battle robot based on the ESP32 platform, featuring a web-based control panel for remote operation. Designed for participation in scouting events in Johannesburg, this project combines hardware and software engineering to create an interactive and engaging robotics experience.
+Palooka is an ongoing project to develop a battle robot based on the ESP32 platform, featuring a web-based control panel for remote operation. Designed for use in scouting events in Johannesburg, this project combines hardware and software engineering to create an interactive and engaging robotics experience.
 
 **Technical Highlights:**
 - 🤖 Utilizes ESP32 microcontroller for robust performance
