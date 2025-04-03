@@ -31,7 +31,7 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 *2024 - Present*
 - Single-handedly developing and maintaining security monitoring platforms
 - Building responsive web applications using React.js
-- Implementing secure API integrations
+- Implementing secure integrations
 
 ### Embedded Systems Intern | Magtouch Electronics
 *2024 - Present*  
