@@ -30,7 +30,7 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 ### Full Stack Developer | 42nd Precinct Security
 *2024 - Present*
 - Single-handedly developing and maintaining security monitoring platforms
-- Building responsive web applications using React.js
+- Building responsive full-stack web applications using React.js and Laravel
 - Implementing secure integrations
 
 ### Embedded Systems Intern | Magtouch Electronics
