@@ -8,10 +8,6 @@
   <a href="https://www.linkedin.com/in/ryan-millard"><img src="https://img.shields.io/badge/Full--Stack_Developer-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Developer"/></a>
 </p>
 
-<p align="center">
-  <em>Crafting Security Solutions from South Africa 🇿🇦</em>
-</p>
-
 
 ## 👨‍💻 About Me
 
