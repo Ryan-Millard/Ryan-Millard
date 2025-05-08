@@ -12,6 +12,7 @@
 ## 👨‍💻 About Me
 
 > Full Stack Developer with a passion for security systems and efficient solutions
+
 > Golden Key Honour Society Member
 
 Currently sole developer at 42nd Precinct Security while completing my final year in Bachelor of Computer and Information Science in Application Development and Networks. Combining academic knowledge with hands-on experience in building real-world security applications.
