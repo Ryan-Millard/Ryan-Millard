@@ -3,6 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=ryan-millard&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="mailto:millardryandevon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-millard"><img src="https://img.shields.io/badge/Full--Stack_Developer-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Developer"/></a>
