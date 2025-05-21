@@ -102,7 +102,8 @@ Custom security platform for 42nd Precinct Security (private repo).
 - ⚙️ Implemented GitHub-triggered workflows: pushes to `main` fire a GitHub workflow thaf pushes to the production server, triggering a post-receive hook for automated zero-downtime deployments
 - 🔒 Implemented secure HTTPS with SSL and strict HTTP headers
 
-[Visit Live Site](https://42ndprecinct.co.za)
+[Visit Live Site](https://42ndprecinct.co.za) • [~~Documentation~~ (private)]
+
 
 
 ### Palooka – ESP32 Battlebot
