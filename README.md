@@ -87,6 +87,24 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 
 ## 🚀 Featured Projects
 
+### 42nd Precinct Security Platform
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+![Tech](https://img.shields.io/badge/Stack-Laravel%2C_React%2C_Vite-blue?style=flat-square)
+
+Custom security platform for 42nd Precinct Security (private repo).
+
+**Technical Highlights:**
+- 🚀 Migrated the entire application to a new server environment
+- 🌐 Configured DNS and reinstated the domain name (42ndprecinct.co.za) before expiry
+- 📧 Set up and managed corporate email hosting for the organisation
+- 🛠️ Built frontend with React and Vite, and backend APIs with Laravel
+- 📦 Automated deployment pipeline to ensure zero-downtime releases
+- ⚙️ Implemented GitHub-triggered workflows: pushes to `main` fire a GitHub workflow thaf pushes to the production server, triggering a post-receive hook for automated zero-downtime deployments
+- 🔒 Implemented secure HTTPS with SSL and strict HTTP headers
+
+[Visit Live Site](https://42ndprecinct.co.za)
+
+
 ### Palooka – ESP32 Battlebot
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
