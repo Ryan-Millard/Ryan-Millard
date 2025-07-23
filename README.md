@@ -1,6 +1,3 @@
-# Ryan Millard
-
-## 👨‍💻 About Me
 Full‑Stack Developer specializing in secure, scalable web & embedded systems.  
 Currently developing security platforms at 42nd Precinct Security while completing my Bachelor of Computer and Information Systems.
 
