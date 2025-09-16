@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:millardryandevon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/ryan-millard"><img src="https://img.shields.io/badge/Full--Stack_Developer-0A66C2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Developer"/></a>
 </p>
 
@@ -29,13 +25,13 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 ## 💼 Professional Experience
 
 ### Full Stack Developer | 42nd Precinct Security
-*2024 - Present*
+*2024 - 2025*
 - Single-handedly developing and maintaining security monitoring platforms
 - Building responsive full-stack web applications using React.js and Laravel
 - Implementing secure integrations
 
 ### Embedded Systems Intern | Magtouch Electronics
-*Jan - May 2025*  
+*Jan 2025 - Present*  
 - Developing and prototyping embedded systems using Arduino in C/C++  
 - Collaborating with senior engineers to design and test electronic circuits  
 - Troubleshooting and debugging hardware and software issues in IoT devices  
@@ -79,77 +75,6 @@ Currently sole developer at 42nd Precinct Security while completing my final yea
 ### Servers
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## 🚀 Featured Projects
-
-### 42nd Precinct Security Platform
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![Tech](https://img.shields.io/badge/Stack-Laravel%2C_React%2C_Vite-blue?style=flat-square)
-
-Custom security platform for 42nd Precinct Security (private repo).
-
-**Technical Highlights:**
-- 🚀 Migrated the entire application to a new server environment
-- 🌐 Configured DNS and reinstated the domain name (42ndprecinct.co.za) before expiry
-- 📧 Set up and managed corporate email hosting for the organisation
-- 🛠️ Built frontend with React and Vite, and backend APIs with Laravel
-- 📦 Automated deployment pipeline to ensure zero-downtime releases
-- ⚙️ Implemented GitHub-triggered workflows: pushes to `main` fire a GitHub workflow thaf pushes to the production server, triggering a post-receive hook for automated zero-downtime deployments
-- 🔒 Implemented secure HTTPS with SSL and strict HTTP headers
-
-[Visit Live Site](https://42ndprecinct.co.za) • [~~Documentation~~ (private)]
-
-
-
-### Palooka – ESP32 Battlebot
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
-![Tech](https://img.shields.io/badge/Stack-ESP32_C%2B%2B_WebServer-blue?style=flat-square)
-
-Palooka is an ongoing project to develop a battle robot based on the ESP32 platform, featuring a web-based control panel for remote operation. Designed for use in scouting events in Johannesburg, this project combines hardware and software engineering to create an interactive and engaging robotics experience.
-
-**Technical Highlights:**
-- 🤖 Utilizes ESP32 microcontroller for robust performance
-- 🌐 Web server control panel for intuitive remote operation
-- 🛠️ Ongoing development with a focus on reliability and user engagement
-
-[View Project](https://github.com/Ryan-Millard/Palooka) • [Documentation](https://github.com/Ryan-Millard/Palooka/blob/main/README.md)
-
-
-### Pastimes E-Commerce Platform
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![Tech](https://img.shields.io/badge/Stack-PHP_MySQL-green?style=flat-square)
-
-Custom-built e-commerce platform for second-hand clothing commerce, featuring a hand-crafted MVC architecture.
-
-**Technical Highlights:**
-- 🏗️ Custom MVC framework built from scratch in PHP
-- 🛢️ Optimized MySQL database design
-- 🔐 Custom session-based authentication system
-- 🛍️ Dynamic product catalog with advanced filtering
-- 📱 Responsive design using pure CSS
-
-[View Project](https://github.com/Ryan-millard/Pastimes-WEDE6021-POE) • [Documentation](https://github.com/Ryan-Millard/Pastimes-WEDE6021-POE/blob/main/README.md)
-
-### Contract Monthly Claim System (CMCS)
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![Tech](https://img.shields.io/badge/Stack-.NET_Razor-purple?style=flat-square)
-
-Streamlined claim management system built with .NET Razor Pages and MySQL.
-
-**Key Features:**
-- 🏛️ Clean architecture using .NET Razor Pages
-- 🛢️ Efficient MySQL database integration
-- 🔒 Role-based access control implementation
-- 📊 Dynamic reporting engine
-- ✨ Server-side validation with model binding
-
-[View Project](https://github.com/Ryan-Millard/Contract-Monthly-Claim-System---PROG6212-POE) • [Documentation](https://github.com/Ryan-Millard/Contract-Monthly-Claim-System---PROG6212-POE/blob/main/Documentation.pdf)
 
 
 ## 📊 Development Metrics
